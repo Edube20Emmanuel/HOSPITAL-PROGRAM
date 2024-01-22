@@ -1,0 +1,15 @@
+#Exponatial
+exp = 2**3
+
+#floor Division
+floorDivision = 10//3
+
+#Division
+division = 10/3
+
+#modulus
+modulus = 10%3
+
+print("Division:", exp)
+print("FloorDivision:", floorDivision)
+print("Modulus:", modulus)
